@@ -14,6 +14,6 @@ int main()
 
 	for (int i = 1; i < 10; ++i)
 	{
-		cout << a << " * " << i << " = " << a * i << endl;
+		cout << a << " * " << i << " = " << a * i << "\n";
 	}
 }

@@ -13,8 +13,8 @@ int main()
 
 	cin >> a >> b;
 
-	cout << a * (b % 10) << endl;
-	cout << a * ((b / 10) % 10) << endl;
-	cout << a * (b / 100) << endl;
-	cout << a * b << endl;
+	cout << a * (b % 10) << "\n";
+	cout << a * ((b / 10) % 10) << "\n";
+	cout << a * (b / 100) << "\n";
+	cout << a * b << "\n";
 }
