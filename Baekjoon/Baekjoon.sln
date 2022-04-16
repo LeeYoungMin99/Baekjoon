@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1998년생인_내가_태국
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나머지", "..\나머지\나머지.vcxproj", "{15386435-0D44-4790-9281-927EFF9ABB8F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "곱셈", "..\곱셈\곱셈.vcxproj", "{97CA82E5-48FC-466D-A87C-E56A3BA175E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{15386435-0D44-4790-9281-927EFF9ABB8F}.Release|x64.Build.0 = Release|x64
 		{15386435-0D44-4790-9281-927EFF9ABB8F}.Release|x86.ActiveCfg = Release|Win32
 		{15386435-0D44-4790-9281-927EFF9ABB8F}.Release|x86.Build.0 = Release|Win32
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Debug|x64.ActiveCfg = Debug|x64
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Debug|x64.Build.0 = Debug|x64
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Debug|x86.Build.0 = Debug|Win32
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Release|x64.ActiveCfg = Release|x64
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Release|x64.Build.0 = Release|x64
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Release|x86.ActiveCfg = Release|Win32
+		{97CA82E5-48FC-466D-A87C-E56A3BA175E7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
