@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별 찍기 - 1", "반복문
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별 찍기 - 2", "반복문\별 찍기 - 2\별 찍기 - 2.vcxproj", "{FD496A1D-A303-4364-BFC5-AE7B8837B3C2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "X보다 작은 수", "반복문\X보다 작은 수\X보다 작은 수.vcxproj", "{4B744597-734F-48DC-B283-70C854D6BF89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -317,6 +319,14 @@ Global
 		{FD496A1D-A303-4364-BFC5-AE7B8837B3C2}.Release|x64.Build.0 = Release|x64
 		{FD496A1D-A303-4364-BFC5-AE7B8837B3C2}.Release|x86.ActiveCfg = Release|Win32
 		{FD496A1D-A303-4364-BFC5-AE7B8837B3C2}.Release|x86.Build.0 = Release|Win32
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Debug|x64.ActiveCfg = Debug|x64
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Debug|x64.Build.0 = Debug|x64
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Debug|x86.Build.0 = Debug|Win32
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Release|x64.ActiveCfg = Release|x64
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Release|x64.Build.0 = Release|x64
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Release|x86.ActiveCfg = Release|Win32
+		{4B744597-734F-48DC-B283-70C854D6BF89}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -352,6 +362,7 @@ Global
 		{C25EDD75-4D81-4632-891C-F1B7338D8E24} = {533CDFDA-F529-4352-B376-9F944798101B}
 		{CECB75DA-1184-4217-BF68-530907132530} = {533CDFDA-F529-4352-B376-9F944798101B}
 		{FD496A1D-A303-4364-BFC5-AE7B8837B3C2} = {533CDFDA-F529-4352-B376-9F944798101B}
+		{4B744597-734F-48DC-B283-70C854D6BF89} = {533CDFDA-F529-4352-B376-9F944798101B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
