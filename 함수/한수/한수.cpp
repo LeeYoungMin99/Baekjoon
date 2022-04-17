@@ -16,7 +16,9 @@ int HanSu(int value)
 		int y = i / 10 % 10;
 		int z = i % 10;
 
-		if (x - y == y - z) ++result;
+		if (x - y != y - z) continue;
+
+		++result;
 	}
 
 	return result;
