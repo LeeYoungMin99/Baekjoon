@@ -91,7 +91,6 @@ int main()
 	vector<int> a;
 }
 
-
 int solution2(vector<int> food_times, long long k)
 {
 	int answer = 1;

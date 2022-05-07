@@ -11,10 +11,11 @@ using namespace std;
 //1. 전체를 뒤집으면 1110011 이 됩니다.
 //2. 4번째 문자부터 5번째 문자까지 뒤집으면 1111111이 되어서 두 번 만에 모두 같은 숫자로 만들 수 있습니다.
 //하지만, 처음부터 4번째 문자부터 5번째 문자까지 문자를 뒤집으면 한 번에 0000000이 되어서 1번 만에 모두 같은 숫자로 만들 수 있습니다.
-//문자열 으가 주어졌을 때.다솜이가 해야 하는 행동의 최소 횟수를 출력하세요.
+//문자열 S가 주어졌을 때.다솜이가 해야 하는 행동의 최소 횟수를 출력하세요.
 
 string s;
 int result;
+
 int main()
 {
 	ios_base::sync_with_stdio(false);
@@ -27,8 +28,8 @@ int main()
 	int count0 = 0;
 	int count1 = 0;
 
-	if (s[0] == '0') ++count0;
-	else			 ++count1;
+	if (s[0] == '0') ++count1;
+	else			 ++count0;
 
 	for (size_t i = 0; i < size; ++i)
 	{

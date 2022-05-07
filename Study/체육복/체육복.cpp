@@ -6,17 +6,15 @@ using namespace std;
 
 //https://programmers.co.kr/learn/courses/30/lessons/42862
 
-bool isLost[32];
-bool isReserve[32];
+bool isLost[31];
+bool isReserve[31];
 
 int solution(int n, vector<int> lost, vector<int> reserve)
 {
-	int answer = 0;
+	int answer = n;
 
 	size_t lostSize = lost.size();
 	size_t reserveSize = reserve.size();
-
-	answer = n;
 
 	for (size_t i = 0; i < lostSize; ++i)
 	{
@@ -54,9 +52,4 @@ int solution(int n, vector<int> lost, vector<int> reserve)
 	}
 
 	return answer;
-}
-
-int main()
-{
-
 }
