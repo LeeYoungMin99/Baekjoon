@@ -13,38 +13,26 @@ long long solution(int n, vector<int> times)
 
 	sort(times.begin(), times.end());
 
-	if (n <= size)
-	{
-		answer = times[n - 1];
-
-		return answer;
-	}
-
 	long long min = 1;
-	long long max = times[0] * n;
+	long long max = (long long)times[0] * (long long)n;
 	long long mid = (min + max) / 2;
 
-	while (min <= max)
+	while (min < max)
 	{
 		long long count = 0;
+
 		for (size_t i = 0; i < size; ++i)
 		{
-			count += mid / times[i];
+			count += mid / (long long)times[i];
 		}
 
-		if (n > count)
-		{
-			min = mid + 1;
-		}
-		else
-		{
-			max = mid - 1;
-		}
+		if (n > count)  min = mid + 1;
+		else		    max = mid;
 
 		mid = (min + max) / 2;
 	}
 
-	answer = min;
+	answer = mid;
 
 	return answer;
 }
@@ -100,11 +88,4 @@ long long solution2(int n, vector<int> times)
 	answer = llvec[n - 1];
 
 	return answer;
-}
-
-
-
-int main()
-{
-	cout << solution(3, { 1,99,99 });
 }
