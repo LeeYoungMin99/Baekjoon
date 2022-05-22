@@ -9,8 +9,8 @@ bool resultArr[10001] = {};
 int main()
 {
 	ios_base::sync_with_stdio(false);
-	cout.tie(nullptr);
-	cin.tie(nullptr);
+	cout.tie(NULL);
+	cin.tie(NULL);
 
 	int x = 10000;
 	for (int i = 2; i <= x; ++i)

@@ -8,8 +8,8 @@ int arrY[3];
 int main()
 {
 	ios_base::sync_with_stdio(false);
-	cout.tie(nullptr);
-	cin.tie(nullptr);
+	cout.tie(NULL);
+	cin.tie(NULL);
 
 	int resultX = 0;
 	int resultY = 0;

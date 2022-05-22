@@ -10,8 +10,8 @@ int Count;
 int main()
 {
 	ios_base::sync_with_stdio(false);
-	cout.tie(nullptr);
-	cin.tie(nullptr);
+	cout.tie(NULL);
+	cin.tie(NULL);
 
 	resultArr[1] = true;
 	for (int i = 1; i <= 1000; ++i)

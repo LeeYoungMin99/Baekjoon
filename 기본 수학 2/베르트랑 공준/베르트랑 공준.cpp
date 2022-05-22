@@ -8,8 +8,8 @@ bool resultArr[246913] = {};
 int main()
 {
 	ios_base::sync_with_stdio(false);
-	cout.tie(nullptr);
-	cin.tie(nullptr);
+	cout.tie(NULL);
+	cin.tie(NULL);
 
 	int x = 123456 * 2;
 	for (int i = 2; i < x; ++i)
