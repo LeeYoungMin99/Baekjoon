@@ -229,6 +229,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "행렬 덧셈", "2차원 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최댓값", "2차원 배열\최댓값\최댓값.vcxproj", "{5DC2CAC4-A0A0-4830-8643-CCC958F27A7B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "색종이", "2차원 배열\색종이\색종이.vcxproj", "{5DDCB597-AF11-4280-9926-021AE2213BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1005,6 +1007,14 @@ Global
 		{5DC2CAC4-A0A0-4830-8643-CCC958F27A7B}.Release|x64.Build.0 = Release|x64
 		{5DC2CAC4-A0A0-4830-8643-CCC958F27A7B}.Release|x86.ActiveCfg = Release|Win32
 		{5DC2CAC4-A0A0-4830-8643-CCC958F27A7B}.Release|x86.Build.0 = Release|Win32
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Debug|x64.ActiveCfg = Debug|x64
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Debug|x64.Build.0 = Debug|x64
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Debug|x86.Build.0 = Debug|Win32
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Release|x64.ActiveCfg = Release|x64
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Release|x64.Build.0 = Release|x64
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Release|x86.ActiveCfg = Release|Win32
+		{5DDCB597-AF11-4280-9926-021AE2213BFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1111,6 +1121,7 @@ Global
 		{E5FF3A70-9932-46C7-99B2-97A2B870BB73} = {19D7308D-86DA-497F-8AE8-D636EA9685AB}
 		{4E72DE93-D35B-49C8-BEF2-4ABAA0776DA5} = {743FAC48-D144-4C11-842A-0DEAB787EFEC}
 		{5DC2CAC4-A0A0-4830-8643-CCC958F27A7B} = {743FAC48-D144-4C11-842A-0DEAB787EFEC}
+		{5DDCB597-AF11-4280-9926-021AE2213BFB} = {743FAC48-D144-4C11-842A-0DEAB787EFEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
