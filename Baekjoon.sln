@@ -215,6 +215,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "K번째 수", "Study\K번�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "킹, 퀸, 룩, 비숍, 나이트, 폰", "입출력과 사칙연산\킹, 퀸, 룩, 비숍, 나이트, 폰\킹, 퀸, 룩, 비숍, 나이트, 폰.vcxproj", "{E1A7A4B2-454A-498C-8D34-40064EDE587F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "새싹", "입출력과 사칙연산\새싹\새싹.vcxproj", "{76E39108-3E36-40F4-9405-BAC8F88F3CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -943,6 +945,14 @@ Global
 		{E1A7A4B2-454A-498C-8D34-40064EDE587F}.Release|x64.Build.0 = Release|x64
 		{E1A7A4B2-454A-498C-8D34-40064EDE587F}.Release|x86.ActiveCfg = Release|Win32
 		{E1A7A4B2-454A-498C-8D34-40064EDE587F}.Release|x86.Build.0 = Release|Win32
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Debug|x64.ActiveCfg = Debug|x64
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Debug|x64.Build.0 = Debug|x64
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Debug|x86.Build.0 = Debug|Win32
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Release|x64.ActiveCfg = Release|x64
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Release|x64.Build.0 = Release|x64
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Release|x86.ActiveCfg = Release|Win32
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1043,6 +1053,7 @@ Global
 		{063F7C2F-3D10-4056-8C8C-C216667AB898} = {FD1754D5-C7B0-4C4D-AEA0-A08A4DDC443F}
 		{5764DE55-24E7-4852-975A-E52D43DE7C39} = {2795F0C9-10D2-4EA2-AD55-43B17FD3793A}
 		{E1A7A4B2-454A-498C-8D34-40064EDE587F} = {9FFD2223-D50E-4540-A905-01FA67A9024E}
+		{76E39108-3E36-40F4-9405-BAC8F88F3CBB} = {9FFD2223-D50E-4540-A905-01FA67A9024E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
