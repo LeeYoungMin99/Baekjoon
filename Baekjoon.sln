@@ -241,6 +241,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "재귀의 귀재", "재귀\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘 수업 - 병합 정렬 1", "재귀\알고리즘 수업 - 병합 정렬 1\알고리즘 수업 - 병합 정렬 1.vcxproj", "{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "덩치", "브루트 포스\덩치\덩치.vcxproj", "{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1057,6 +1059,14 @@ Global
 		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x64.Build.0 = Release|x64
 		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x86.ActiveCfg = Release|Win32
 		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x86.Build.0 = Release|Win32
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Debug|x64.ActiveCfg = Debug|x64
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Debug|x64.Build.0 = Debug|x64
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Debug|x86.Build.0 = Debug|Win32
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x64.ActiveCfg = Release|x64
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x64.Build.0 = Release|x64
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x86.ActiveCfg = Release|Win32
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1168,6 +1178,7 @@ Global
 		{30786608-5907-408F-8D75-2EF185AC69A8} = {0070ACCA-F1DB-4680-AC99-73FFED9ED3A5}
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA} = {CF079D56-8607-4216-9F37-D53138538624}
 		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4} = {CF079D56-8607-4216-9F37-D53138538624}
+		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED} = {583A419B-6D94-42A4-9713-189884ACD0BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
