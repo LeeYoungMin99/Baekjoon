@@ -243,6 +243,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘 수업 - 병�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "덩치", "브루트 포스\덩치\덩치.vcxproj", "{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "체스판 다시 칠하기", "브루트 포스\체스판 다시 칠하기\체스판 다시 칠하기.vcxproj", "{C270792A-2763-4B6C-AC0E-3542817DF41B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1067,6 +1069,14 @@ Global
 		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x64.Build.0 = Release|x64
 		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x86.ActiveCfg = Release|Win32
 		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED}.Release|x86.Build.0 = Release|Win32
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Debug|x64.ActiveCfg = Debug|x64
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Debug|x64.Build.0 = Debug|x64
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Debug|x86.Build.0 = Debug|Win32
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Release|x64.ActiveCfg = Release|x64
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Release|x64.Build.0 = Release|x64
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Release|x86.ActiveCfg = Release|Win32
+		{C270792A-2763-4B6C-AC0E-3542817DF41B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1179,6 +1189,7 @@ Global
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA} = {CF079D56-8607-4216-9F37-D53138538624}
 		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4} = {CF079D56-8607-4216-9F37-D53138538624}
 		{BEFDFF8E-6D6F-4850-83F2-371B443A27ED} = {583A419B-6D94-42A4-9713-189884ACD0BE}
+		{C270792A-2763-4B6C-AC0E-3542817DF41B} = {583A419B-6D94-42A4-9713-189884ACD0BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
