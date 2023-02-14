@@ -239,6 +239,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "재귀", "재귀", "{CF079D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "재귀의 귀재", "재귀\재귀의 귀재\재귀의 귀재.vcxproj", "{11FF33CD-6AAF-447D-B4BE-D737774C9BCA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘 수업 - 병합 정렬 1", "재귀\알고리즘 수업 - 병합 정렬 1\알고리즘 수업 - 병합 정렬 1.vcxproj", "{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1047,6 +1049,14 @@ Global
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA}.Release|x64.Build.0 = Release|x64
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA}.Release|x86.ActiveCfg = Release|Win32
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA}.Release|x86.Build.0 = Release|Win32
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Debug|x64.ActiveCfg = Debug|x64
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Debug|x64.Build.0 = Debug|x64
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Debug|x86.Build.0 = Debug|Win32
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x64.ActiveCfg = Release|x64
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x64.Build.0 = Release|x64
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x86.ActiveCfg = Release|Win32
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1157,6 +1167,7 @@ Global
 		{2D40BFFB-4A66-4CDF-8100-1EF39E5B1BBD} = {0070ACCA-F1DB-4680-AC99-73FFED9ED3A5}
 		{30786608-5907-408F-8D75-2EF185AC69A8} = {0070ACCA-F1DB-4680-AC99-73FFED9ED3A5}
 		{11FF33CD-6AAF-447D-B4BE-D737774C9BCA} = {CF079D56-8607-4216-9F37-D53138538624}
+		{40CA6CC7-0915-4D8E-A1BE-D4FA29CD47E4} = {CF079D56-8607-4216-9F37-D53138538624}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90853BC7-FDFD-4D27-A0FF-16A16482B28E}
