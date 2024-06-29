@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leeym\\.nuget\\packages\\": {}
+    "C:\\Users\\sixk9\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeym\\Documents\\Baekjoon\\25206.너의 평점은\\25206.너의 평점은.csproj",
+      "projectUniqueName": "C:\\Users\\sixk9\\Documents\\Baekjoon\\25206.너의 평점은\\25206.너의 평점은.csproj",
       "projectName": "25206.너의 평점은",
-      "projectPath": "C:\\Users\\leeym\\Documents\\Baekjoon\\25206.너의 평점은\\25206.너의 평점은.csproj",
-      "packagesPath": "C:\\Users\\leeym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeym\\Documents\\Baekjoon\\25206.너의 평점은\\obj\\",
+      "projectPath": "C:\\Users\\sixk9\\Documents\\Baekjoon\\25206.너의 평점은\\25206.너의 평점은.csproj",
+      "packagesPath": "C:\\Users\\sixk9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sixk9\\Documents\\Baekjoon\\25206.너의 평점은\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\leeym\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sixk9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
