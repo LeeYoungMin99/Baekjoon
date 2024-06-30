@@ -289,21 +289,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2903.중앙 이동 알고�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5086.배수와 약수", "5086.배수와 약수\5086.배수와 약수.csproj", "{476EC231-2E51-435C-B744-61E440520080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2501.약수 구하기", "2501.약수 구하기\2501.약수 구하기.csproj", "{E3F6EC82-5E0B-4B52-8C25-432AFB7452FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2501.약수 구하기", "2501.약수 구하기\2501.약수 구하기.csproj", "{E3F6EC82-5E0B-4B52-8C25-432AFB7452FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9506.약수들의 합", "9506.약수들의 합\9506.약수들의 합.csproj", "{4B3DC4F8-A50C-4A83-9F67-D48D68FC4703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9506.약수들의 합", "9506.약수들의 합\9506.약수들의 합.csproj", "{4B3DC4F8-A50C-4A83-9F67-D48D68FC4703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27323.직사각형", "27323.직사각형\27323.직사각형.csproj", "{2A18A911-5F13-4ACC-8078-D34BDFADFF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27323.직사각형", "27323.직사각형\27323.직사각형.csproj", "{2A18A911-5F13-4ACC-8078-D34BDFADFF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15894.수학은 체육과목 입니다.", "15894.수학은 체육과목 입니다\15894.수학은 체육과목 입니다..csproj", "{B3FE7C35-30FF-4714-B8DA-5763A4E74E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15894.수학은 체육과목 입니다.", "15894.수학은 체육과목 입니다\15894.수학은 체육과목 입니다..csproj", "{B3FE7C35-30FF-4714-B8DA-5763A4E74E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009063.대지", "009063.대지\009063.대지.csproj", "{857DAD92-35F2-42B5-B8C0-8CAA21D4C100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009063.대지", "009063.대지\009063.대지.csproj", "{857DAD92-35F2-42B5-B8C0-8CAA21D4C100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010101.삼각형 외우기", "010101.삼각형 외우기\010101.삼각형 외우기.csproj", "{0063D192-AE6D-4E13-8CA9-57A96F6E5A32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010101.삼각형 외우기", "010101.삼각형 외우기\010101.삼각형 외우기.csproj", "{0063D192-AE6D-4E13-8CA9-57A96F6E5A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005073.삼각형과 세 변", "005073.삼각형과 세 변\005073.삼각형과 세 변.csproj", "{878C6319-E6E3-4130-B191-B244D699C5CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005073.삼각형과 세 변", "005073.삼각형과 세 변\005073.삼각형과 세 변.csproj", "{878C6319-E6E3-4130-B191-B244D699C5CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014215.세 막대", "014215.세 막대\014215.세 막대.csproj", "{6E4CDAAA-C0F8-40A9-BD53-454158C7AE83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014215.세 막대", "014215.세 막대\014215.세 막대.csproj", "{6E4CDAAA-C0F8-40A9-BD53-454158C7AE83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002108.통계학", "002108.통계학\002108.통계학.csproj", "{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019532.수학은 비대면강의입니다.", "019532.수학은 비대면강의입니다\019532.수학은 비대면강의입니다..csproj", "{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007785.회사에 있는 사람", "007785.회사에 있는 사람\007785.회사에 있는 사람.csproj", "{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1677,6 +1683,42 @@ Global
 		{6E4CDAAA-C0F8-40A9-BD53-454158C7AE83}.Release|x64.Build.0 = Release|Any CPU
 		{6E4CDAAA-C0F8-40A9-BD53-454158C7AE83}.Release|x86.ActiveCfg = Release|Any CPU
 		{6E4CDAAA-C0F8-40A9-BD53-454158C7AE83}.Release|x86.Build.0 = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|x64.Build.0 = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Debug|x86.Build.0 = Debug|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|x64.ActiveCfg = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|x64.Build.0 = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|x86.ActiveCfg = Release|Any CPU
+		{5A7799C5-1DC9-4DD8-9E3B-7F0FD1CCF30A}.Release|x86.Build.0 = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|x64.Build.0 = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD8E3FAF-F1D0-41DF-B4F9-A2F0E474D38C}.Release|x86.Build.0 = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|x64.Build.0 = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Debug|x86.Build.0 = Debug|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|x64.ActiveCfg = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|x64.Build.0 = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|x86.ActiveCfg = Release|Any CPU
+		{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
