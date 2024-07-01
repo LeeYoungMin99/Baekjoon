@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sixk9\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj": {}
+    "C:\\Users\\leeym\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sixk9\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj": {
+    "C:\\Users\\leeym\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sixk9\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj",
+        "projectUniqueName": "C:\\Users\\leeym\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj",
         "projectName": "2903.중앙 이동 알고리즘",
-        "projectPath": "C:\\Users\\sixk9\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj",
-        "packagesPath": "C:\\Users\\sixk9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sixk9\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\obj\\",
+        "projectPath": "C:\\Users\\leeym\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\2903.중앙 이동 알고리즘.csproj",
+        "packagesPath": "C:\\Users\\leeym\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leeym\\Documents\\Baekjoon\\2903.중앙 이동 알고리즘\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sixk9\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\leeym\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
