@@ -311,17 +311,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019532.수학은 비대면�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007785.회사에 있는 사람", "007785.회사에 있는 사람\007785.회사에 있는 사람.csproj", "{19A59B0F-A1E2-4464-8B92-A4C462D01B2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024262.알고리즘 수업 - 알고리즘의 수행 시간 1", "024262.알고리즘 수업 - 알고리즘의 수행 시간 1\024262.알고리즘 수업 - 알고리즘의 수행 시간 1.csproj", "{1E691765-B437-45C2-BF19-A6684A00EA57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024262.알고리즘 수업 - 알고리즘의 수행 시간 1", "024262.알고리즘 수업 - 알고리즘의 수행 시간 1\024262.알고리즘 수업 - 알고리즘의 수행 시간 1.csproj", "{1E691765-B437-45C2-BF19-A6684A00EA57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024263.알고리즘 수업 - 알고리즘의 수행 시간 2", "024263.알고리즘 수업 - 알고리즘의 수행 시간 2\024263.알고리즘 수업 - 알고리즘의 수행 시간 2.csproj", "{FCE603A1-0CB6-4841-B025-131A7D908BEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024263.알고리즘 수업 - 알고리즘의 수행 시간 2", "024263.알고리즘 수업 - 알고리즘의 수행 시간 2\024263.알고리즘 수업 - 알고리즘의 수행 시간 2.csproj", "{FCE603A1-0CB6-4841-B025-131A7D908BEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024264.알고리즘 수업 - 알고리즘의 수행 시간 3", "024264.알고리즘 수업 - 알고리즘의 수행 시간 3\024264.알고리즘 수업 - 알고리즘의 수행 시간 3.csproj", "{38E7A3C9-4250-4BF3-B68C-31647B329C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024264.알고리즘 수업 - 알고리즘의 수행 시간 3", "024264.알고리즘 수업 - 알고리즘의 수행 시간 3\024264.알고리즘 수업 - 알고리즘의 수행 시간 3.csproj", "{38E7A3C9-4250-4BF3-B68C-31647B329C8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024265.알고리즘 수업 - 알고리즘의 수행 시간 4", "024265.알고리즘 수업 - 알고리즘의 수행 시간 4\024265.알고리즘 수업 - 알고리즘의 수행 시간 4.csproj", "{AF279F7A-955A-42AE-AF07-4B2AA375D098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024265.알고리즘 수업 - 알고리즘의 수행 시간 4", "024265.알고리즘 수업 - 알고리즘의 수행 시간 4\024265.알고리즘 수업 - 알고리즘의 수행 시간 4.csproj", "{AF279F7A-955A-42AE-AF07-4B2AA375D098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024266.알고리즘 수업 - 알고리즘의 수행 시간 5", "024266.알고리즘 수업 - 알고리즘의 수행 시간 5\024266.알고리즘 수업 - 알고리즘의 수행 시간 5.csproj", "{DEB557DD-88AF-489C-801F-9F6FEAF127E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024266.알고리즘 수업 - 알고리즘의 수행 시간 5", "024266.알고리즘 수업 - 알고리즘의 수행 시간 5\024266.알고리즘 수업 - 알고리즘의 수행 시간 5.csproj", "{DEB557DD-88AF-489C-801F-9F6FEAF127E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024267.알고리즘 수업 - 알고리즘의 수행 시간 6", "024267.알고리즘 수업 - 알고리즘의 수행 시간 6\024267.알고리즘 수업 - 알고리즘의 수행 시간 6.csproj", "{102CAF6E-8DEF-4D0E-8A0D-415E26B37A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024267.알고리즘 수업 - 알고리즘의 수행 시간 6", "024267.알고리즘 수업 - 알고리즘의 수행 시간 6\024267.알고리즘 수업 - 알고리즘의 수행 시간 6.csproj", "{102CAF6E-8DEF-4D0E-8A0D-415E26B37A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024313.알고리즘 수업 - 점근적 표기 1", "024313.알고리즘 수업 - 점근적 표기 1\024313.알고리즘 수업 - 점근적 표기 1.csproj", "{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001934.최소공배수", "001934.최소공배수\001934.최소공배수.csproj", "{503B7E35-A64E-43EE-A8C4-692F6989DF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1803,6 +1807,30 @@ Global
 		{102CAF6E-8DEF-4D0E-8A0D-415E26B37A5B}.Release|x64.Build.0 = Release|Any CPU
 		{102CAF6E-8DEF-4D0E-8A0D-415E26B37A5B}.Release|x86.ActiveCfg = Release|Any CPU
 		{102CAF6E-8DEF-4D0E-8A0D-415E26B37A5B}.Release|x86.Build.0 = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|x64.Build.0 = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Debug|x86.Build.0 = Debug|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|x64.ActiveCfg = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|x64.Build.0 = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|x86.ActiveCfg = Release|Any CPU
+		{AC03E6BC-CB9F-49CF-AC8C-A8636DE19104}.Release|x86.Build.0 = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|x64.Build.0 = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Debug|x86.Build.0 = Debug|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|x64.ActiveCfg = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|x64.Build.0 = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|x86.ActiveCfg = Release|Any CPU
+		{503B7E35-A64E-43EE-A8C4-692F6989DF16}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
